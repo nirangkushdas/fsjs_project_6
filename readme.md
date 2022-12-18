@@ -1,4 +1,4 @@
-## Project Name - FSJS_Project_4
+## Project Name - FSJS_Project_6
 
 Technology used -
 1. HTML
